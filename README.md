@@ -25,3 +25,16 @@ tipe-tiket = jenis tiket yang dipilih
 status_member = Status member pengguna
 total_harga = harga yang harus dibayar
 ![Gambar 5](sspy/sspy5.png)
+
+## CONTOH 
+### Kasus 1 : Memilih tiket reguler dan mempunyai kartu member
+![Gambar 6](sspy/sspy7.png)
+
+### Kasus 2 : Memilih tiket reguler dan tidak mempunyai kartu member
+![Gambar 7](sspy/sspy8.png)
+
+### Kasus 3 : Memilih tiket VIP dan mempunyai kartu member 
+![Gambar 8](sspy/ss9.png)
+
+### Kasus 4 : Memilih tiket VIP dan tidak mempunyai kartu member 
+![Gambar 9](sspy/ss10.png)
