@@ -49,9 +49,9 @@ Untuk memulai Flowchart gunakan terminator sebagai penanda awal flowchart. Setel
 ![Gambar 11](sspy/sspy12.png)
 
 ### TAHAP KEDUA
-Pada tahap ini pengambilan keputusan pertama dilakukan yaitu mengenai tipe tiket di flowchart tersebut ditulis "Tipe Tiket == reguler?", disini terdapat dua keputusan yaitu ya dan tidak. Jika ya maka tiket tersebut adalah reguler dan jika tidak maka tiket tersebut adalah VIP. Setelah keputusan pertama selesai maka akan lanjut keputusan ke-2 yaitu mengenai status member, jika status member tersebut adalah "ya" maka akan mendapat potongan harga. Jika "Tidak" maka tidak akan mendapat potongan harga. 
-![Gambar 12](sspy/ss13.png)
+Pada tahap ini pengambilan keputusan pertama dilakukan yaitu mengenai tipe tiket di flowchart tersebut ditulis "Tipe Tiket == reguler?", disini terdapat dua keputusan yaitu ya dan tidak. Jika ya maka tiket tersebut adalah reguler dan jika tidak maka tiket tersebut adalah VIP. Setelah keputusan pertama selesai maka akan lanjut keputusan ke-2 yaitu mengenai status member, jika status member tersebut adalah "ya" maka akan mendapat potongan harga. Jika "Tidak" maka tidak akan mendapat potongan harga. <p>
+![Gambar 12](sspy/ss14.png)
 
 ### TAHAP AKHIR 
 Output akan menampilkan program yang harus dibayar dan progam akan berakhir 
-![Gambar 13](sspy/ss14.png)
+![Gambar 13](sspy/ss13.png)
