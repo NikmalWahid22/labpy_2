@@ -92,17 +92,17 @@ Menampilkan hasil <p>
 
 # FLOWCHART KASUS 2 
 ### TAHAP AWAL 
-Mulai Program dengan bentuk Terminator sebagai penanda awal program 
+Mulai Program dengan bentuk Terminator sebagai penanda awal program <p>
 
 ### TAHAP KEDUA
 Pada tahap ini gunakan bentuk Paralelogram dan terdapat input angka pertama, kedua dan input operator. <p>
-![Gambar 22 ]()
+![Gambar 22 ](sspy/sspy70.png)
 
 ### TAHAP KETIGA 
-Pada Tahap ketiga keputusan operator di tentukan apakah +, -, *, atau /. Namun pada operator pembagian terdapat keputusan yaitu apabila angka kedua = 0 maka program akan terjadi error tetapi jika angka kedua tidak 0 maka program tidak error atau menampilkan hasil. 
-![Gambar 23]()
+Pada Tahap ketiga keputusan operator di tentukan apakah +, -, *, atau /. Namun pada operator pembagian terdapat keputusan yaitu apabila angka kedua = 0 maka program akan terjadi error tetapi jika angka kedua tidak 0 maka program tidak error atau menampilkan hasil. <p>
+![Gambar 23](sspy/sspy80.png)
 
 ### TAHAP AKHIR 
-Hasil dari operasi dan program akan berakhir
-![Gambar 24]()
+Hasil dari operasi dan program akan berakhir <p>
+![Gambar 24](sspy/sspy90.png)
 
