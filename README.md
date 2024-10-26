@@ -79,5 +79,7 @@ Jika operator yang dimasukkan tidak sesuai dari keempat operator di atas maka ha
 ![Gambar 18](sspy/ss21.png)
 
 ### TAHAP KELIMA 
-MEnampilkan hasil 
-![Gambar 19](sspy/sspy22.png)
+Menampilkan hasil <p>
+
+![Gambar 19](sspy/ss222py.png)
+
