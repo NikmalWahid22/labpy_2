@@ -38,3 +38,6 @@ total_harga = harga yang harus dibayar
 
 ### Kasus 4 : Memilih tiket VIP dan tidak mempunyai kartu member 
 ![Gambar 9](sspy/ss10.png)
+
+### Kasus 5 : Pengguna memasukkan tipe tiket yang tidak valid
+![Gambar 10](sspy/sspy11.png)
