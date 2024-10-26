@@ -58,4 +58,26 @@ Output akan menampilkan program yang harus dibayar dan progam akan berakhir
 
 ## GAMBAR FLOWCHART KASUS 1
 ![Gambar 14](sspy/ss17.png)
- 
+
+
+# KASUS 2 PROGRAM KALKULATOR SEDERHANA 
+## KODE PEMROGRAMAN 
+### TAHAP AWAL 
+Pada tahap awal terdapat 2 fungsi input, fungsi meminta pengguna untuk memasukan angka pertama dan angka kedua. Selain fungsi input terdapat fungsi agar dapat melakukan operasi angka desimal. <P>
+![Gambar 15](sspy/ss18py.png)
+
+### TAHAP KEDUA 
+Disini pengguna diminta untuk memasukkan operator aritmatika yang ingin digunakan. Operator yang valid adalah +, -, *, /.
+![Gambar 16](sspy/ss19.png)
+
+### TAHAP KETIGA
+Di tahap ini terdapat strukur if. Jika Operator adalah "+" maka akan progam akan menjumlahkan angka1 dan angka2 dan menyimpan hasilnya di variabel hasil. Jika operator adalah "-" maka program akan mengurangi angka 2 dari angka 1 . Jika operator adalah "*" program akan mengalikan angka1 dengan angka2. Jika operator adalah "/", program memeriksa apakah angka2 adalah nol. Pembagian dengan nol tidak valid, sehingga jika angka2 sama dengan nol, hasil akan diisi dengan pesan error. Jika tidak, program melakukan pembagian angka1 dengan angka2.
+![Gambar 17](sspy/ss20.png)
+
+### TAHAP KEEMPAT 
+Jika operator yang dimasukkan tidak sesuai dari keempat operator di atas maka hasil akan diisi dengan pesan error.
+![Gambar 18](sspy/ss21.png)
+
+### TAHAP KELIMA 
+MEnampilkan hasil 
+![Gambar 19](sspy/ss22.png)
