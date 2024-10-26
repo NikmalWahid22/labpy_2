@@ -12,3 +12,9 @@ Pada tahap ini,menggunakan struktur if-else untuk menentukan harga tiket berdasa
 ### TAHAP KETIGA
 Pada tahap ini memastikan bahwa proses akan berlanjut apabila tipe tiket valid(harga tidak 0). Jika Harga 0 karena tipe tiket tidak valid maka program akan melewati blok ini dan tidak akan menghitung harga akhir dan mencetak hasil. <P>
 ![Gambar 3](sspy/sspy3.png)
+
+### TAHAP KEEMPAT 
+Pada bagian ini operator ternary digunakan untuk menghitung harga akhir berdasarkan status member :
+Jika status member "ya" maka pengguna yang memiliki kartu akan mendapat diskon 20%
+Namun jika Status member "tidak" maka tidak ada potongan harga.
+![Gambar 4](sspy/ss4.png)
