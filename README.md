@@ -83,3 +83,26 @@ Menampilkan hasil <p>
 
 ![Gambar 19](sspy/ss222py.png)
 
+## CONTOH 
+### Hasil ekseskusi apabila valid 
+![Gambar 20](sspy/ss2567.png)
+
+### Hasil eksekusi apabila Error
+![Gambar 21](sspy/sspy26.png)
+
+# FLOWCHART KASUS 2 
+### TAHAP AWAL 
+Mulai Program dengan bentuk Terminator sebagai penanda awal program 
+
+### TAHAP KEDUA
+Pada tahap ini gunakan bentuk Paralelogram dan terdapat input angka pertama, kedua dan input operator. <p>
+![Gambar 22 ]()
+
+### TAHAP KETIGA 
+Pada Tahap ketiga keputusan operator di tentukan apakah +, -, *, atau /. Namun pada operator pembagian terdapat keputusan yaitu apabila angka kedua = 0 maka program akan terjadi error tetapi jika angka kedua tidak 0 maka program tidak error atau menampilkan hasil. 
+![Gambar 23]()
+
+### TAHAP AKHIR 
+Hasil dari operasi dan program akan berakhir
+![Gambar 24]()
+
