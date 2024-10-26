@@ -18,3 +18,10 @@ Pada bagian ini operator ternary digunakan untuk menghitung harga akhir berdasar
 Jika status member "ya" maka pengguna yang memiliki kartu akan mendapat diskon 20%
 Namun jika Status member "tidak" maka tidak ada potongan harga.
 ![Gambar 4](sspy/ss4.png)
+
+### TAHAP KELIMA
+Pada bagian ini akan menampilkan hasil akhir 
+tipe-tiket = jenis tiket yang dipilih
+status_member = Status member pengguna
+total_harga = harga yang harus dibayar
+![Gambar 5](sspy/sspy5.png)
