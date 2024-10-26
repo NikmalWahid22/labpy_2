@@ -55,3 +55,7 @@ Pada tahap ini pengambilan keputusan pertama dilakukan yaitu mengenai tipe tiket
 ### TAHAP AKHIR 
 Output akan menampilkan program yang harus dibayar dan progam akan berakhir 
 ![Gambar 13](sspy/ss13.png)
+
+## GAMBAR FLOWCHART KASUS 1
+![Gambar 14](sspy/ss17.png)
+ 
