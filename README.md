@@ -80,4 +80,4 @@ Jika operator yang dimasukkan tidak sesuai dari keempat operator di atas maka ha
 
 ### TAHAP KELIMA 
 MEnampilkan hasil 
-![Gambar 19](sspy/ss22.png)
+![Gambar 19](sspy/sspy22.png)
